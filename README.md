@@ -1,1 +1,1 @@
-# Video Share Frame
+# CSS spritesheet animation
