@@ -36,18 +36,13 @@
   margin: 20px;
   
   &.y1960s {
-    @include sprite-sheet("http://dev.thesecretlocation.com/OPEN/b/60s.png", 7560, 1200ms, 24, y60);
-
+    @include sprite-sheet("http://dev.thesecretlocation.com/OPEN/codepen/60s.png", 7560, 1200ms, 24, y60);
   }
   &.y1970s {
-    @include sprite-sheet("http://dev.thesecretlocation.com/OPEN/b/70s.png", 5808, 1200ms, 24, y70);
-  }
-  &.y1980s {
-    @include sprite-sheet("http://dev.thesecretlocation.com/OPEN/b/80s.png", 6864, 1200ms, 24, y80);
+    @include sprite-sheet("http://dev.thesecretlocation.com/OPEN/codepen/70s.png", 5808, 1200ms, 24, y70);
   }
 }
 
 // put your keyframes here
 @include sprite-sheet-key(7560, 24, y60);
 @include sprite-sheet-key(5808, 24, y70);
-@include sprite-sheet-key(6864, 24, y80);
