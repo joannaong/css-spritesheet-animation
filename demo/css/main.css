@@ -1,0 +1,124 @@
+/* line 31, ../../src/css/main.scss */
+.sheet {
+  height: 270px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  float: left;
+  margin: 20px;
+}
+/* line 38, ../../src/css/main.scss */
+.sheet.y1960s {
+  width: 315px;
+  background-image: url("http://dev.thesecretlocation.com/OPEN/codepen/60s.png");
+  -webkit-animation: y60 1200ms steps(23) forwards;
+  -moz-animation: y60 1200ms steps(23) forwards;
+  -ms-animation: y60 1200ms steps(23) forwards;
+  -o-animation: y60 1200ms steps(23) forwards;
+  animation: y60 1200ms steps(23) forwards;
+}
+/* line 41, ../../src/css/main.scss */
+.sheet.y1970s {
+  width: 242px;
+  background-image: url("http://dev.thesecretlocation.com/OPEN/codepen/70s.png");
+  -webkit-animation: y70 1200ms steps(23) forwards;
+  -moz-animation: y70 1200ms steps(23) forwards;
+  -ms-animation: y70 1200ms steps(23) forwards;
+  -o-animation: y70 1200ms steps(23) forwards;
+  animation: y70 1200ms steps(23) forwards;
+}
+
+@-webkit-keyframes y60 {
+  /* line 13, ../../src/css/main.scss */
+  from {
+    background-position: 0;
+  }
+
+  /* line 14, ../../src/css/main.scss */
+  to {
+    background-position: -7245px;
+  }
+}
+
+@-moz-keyframes y60 {
+  /* line 17, ../../src/css/main.scss */
+  from {
+    background-position: 0;
+  }
+
+  /* line 18, ../../src/css/main.scss */
+  to {
+    background-position: -7245px;
+  }
+}
+
+@-ms-keyframes y60 {
+  /* line 21, ../../src/css/main.scss */
+  from {
+    background-position: 0;
+  }
+
+  /* line 22, ../../src/css/main.scss */
+  to {
+    background-position: -7245px;
+  }
+}
+
+@keyframes y60 {
+  /* line 25, ../../src/css/main.scss */
+  from {
+    background-position: 0;
+  }
+
+  /* line 26, ../../src/css/main.scss */
+  to {
+    background-position: -7245px;
+  }
+}
+
+@-webkit-keyframes y70 {
+  /* line 13, ../../src/css/main.scss */
+  from {
+    background-position: 0;
+  }
+
+  /* line 14, ../../src/css/main.scss */
+  to {
+    background-position: -5566px;
+  }
+}
+
+@-moz-keyframes y70 {
+  /* line 17, ../../src/css/main.scss */
+  from {
+    background-position: 0;
+  }
+
+  /* line 18, ../../src/css/main.scss */
+  to {
+    background-position: -5566px;
+  }
+}
+
+@-ms-keyframes y70 {
+  /* line 21, ../../src/css/main.scss */
+  from {
+    background-position: 0;
+  }
+
+  /* line 22, ../../src/css/main.scss */
+  to {
+    background-position: -5566px;
+  }
+}
+
+@keyframes y70 {
+  /* line 25, ../../src/css/main.scss */
+  from {
+    background-position: 0;
+  }
+
+  /* line 26, ../../src/css/main.scss */
+  to {
+    background-position: -5566px;
+  }
+}

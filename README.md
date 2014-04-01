@@ -4,6 +4,7 @@ Spritesheet animated using CSS, specifically SCSS mixins.
 
 ##Demo
 http://codepen.io/joannaong/pen/xgnhD
+joannaong.github.io/css-spritesheet-animation
 
 ##Usage
 Add HTML
